@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ali-pw" /></p>
+<p><img align="right" src="https://user-images.githubusercontent.com/92247967/212745818-e01a8701-690d-4ecc-b221-547d08dc2e1d.gif" alt="ali-pw" /></p>
 
 
 - 🌱 I’m currently learning C#

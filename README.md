@@ -35,7 +35,13 @@
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a>
+      alt="bootstrap" width="40" height="40" />
+    <a href="https://tailwindcss.com/docs/guides/nextjs" target="_blank" rel="noreferrer"> <img
+      src="https://2u.pw/kGISNl" alt="figma" width="40"
+      height="40" />
+    <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img
+      src="https://2u.pw/4g9eZ3" alt="figma" width="40"
+      height="40" /> </a>
      </a>
      </a> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
@@ -58,7 +64,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
       src="https://2u.pw/fJ1uDw" alt="figma" width="40"
-      height="40" /> </a> </p>
+      height="40" /> </a> 
 
 <br>
 

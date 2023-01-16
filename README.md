@@ -37,10 +37,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" />
     <a href="https://tailwindcss.com/docs/guides/nextjs" target="_blank" rel="noreferrer"> <img
-      src="https://2u.pw/kGISNl" alt="figma" width="40"
+      src="https://2u.pw/kGISNl" alt="tailwind" width="40"
       height="40" />
     <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img
-      src="https://2u.pw/4g9eZ3" alt="figma" width="40"
+      src="https://2u.pw/4g9eZ3" alt="chakra-ui" width="40"
       height="40" /> </a>
      </a>
      </a> <a href="https://www.w3schools.com/css/" target="_blank"
@@ -55,7 +55,11 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      alt="mysql" width="40" height="40" /> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+      src="https://2u.pw/ME4rJn" alt="mongodb" width="40"
+      height="40" /> </a>
+</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a>  </a> <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img

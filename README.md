@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/ali-i-alyahya/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
- <a href="[https://twitter.com/adam_pithenwala](https://twitter.com/DifferentHektrs)" target="blank"><img align="center"
+ <a href="https://twitter.com/DifferentHektrs" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>

@@ -40,7 +40,7 @@
       src="https://2u.pw/L5ybLy" alt="tailwind" width="40"
       height="40" />
     <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img
-      src="https://2u.pw/uCoSkX" alt="chakra-ui" width="40"
+      src="https://yt3.googleusercontent.com/ytc/AIf8zZRITxoo0byi4KcV1NSBN2cZknYjLTidLKfizJj2=s900-c-k-c0x00ffffff-no-rj" alt="chakra-ui" width="40"
       height="40" /> </a>
      </a>
      </a> <a href="https://www.w3schools.com/css/" target="_blank"

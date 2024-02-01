@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" />
     <a href="https://tailwindcss.com/docs/guides/nextjs" target="_blank" rel="noreferrer"> <img
-      src="[https://2u.pw/L5ybLy](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png)" alt="tailwind" width="40"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40"
       height="40" />
     <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img
       src="https://yt3.googleusercontent.com/ytc/AIf8zZRITxoo0byi4KcV1NSBN2cZknYjLTidLKfizJj2=s900-c-k-c0x00ffffff-no-rj" alt="chakra-ui" width="40"
@@ -57,7 +57,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> 
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-      src="https://2u.pw/XzbUbV" alt="mongodb" width="40"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="40"
       height="40" /> </a>
 </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -67,7 +67,7 @@
       width="40" height="40" /> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-      src="https://2u.pw/Gar4q8" alt="figma" width="40"
+      src="https://s3-alpha.figma.com/hub/file/4495150327/7de456a8-1da6-4858-b0b5-0308d42904e7-cover.png" alt="figma" width="40"
       height="40" /> </a> 
 
 <br>

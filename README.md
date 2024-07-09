@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Ibrahim</h1>
-<h3 align="center">Trainer at Tuwaiq Academy, web developer at Oumlapay🌟.</h3>
+<h3 align="center">Trainer at Tuwaiq Academy, web developer at Ejari🌟.</h3>
 
 <br>
 
